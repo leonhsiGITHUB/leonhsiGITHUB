@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leonhsi, and this is my amazing GitHub
+- 👋 Hi, I’m @leonhsi, and I'm currently building Breviate (Private Mode)
 
 
 
